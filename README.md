@@ -12,4 +12,4 @@ You can find a similar but partial treatment of this problem on the Matplotlib p
 
 ## License
 
-This work is licensed under an [MIT License](LICENSE.md).
+This work is licensed under an [MIT License](LICENSE).
