@@ -1,4 +1,4 @@
-# Plotting Uncertainty Ellipses for 2D Nomally Distributed Data
+# How to Properly Plot Uncertainty Ellipses for 2D Nomally Distributed Data
 
 This notebook demonstrates how to properly plot error ellipses that represent desired levels of uncertainty as given by the covariance matrix of normally distributed data in 2D.  The reason for this note is that I have seen others naively extend 1D covariance bounds to 2D, which is not technically correct. 
 
