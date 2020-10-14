@@ -1,10 +1,16 @@
-# How to Properly Plot Uncertainty Ellipses for 2D Nomally Distributed Data
+# How to Properly Plot Uncertainty Ellipses for 2D Normally Distributed Data
 
-This notebook demonstrates how to properly plot error ellipses that represent desired levels of uncertainty as given by the covariance matrix of normally distributed data in 2D.  The reason for this note is that I have seen others naively extend 1D covariance bounds to 2D, which is not technically correct. 
+This notebook demonstrates how to properly plot error ellipses (using Python and [Matplotlib](https://matplotlib.org)) that represent desired levels of uncertainty as given by the covariance matrix of normally distributed data in 2D.  The reason for this note is that I have seen others naively extend 1D covariance bounds to 2D, which is not technically correct.
 
 ## Main Files
 
 * [plotting-uncertainty-ellipses.ipynb](plotting-uncertainty-ellipses.ipynb) (Jupyter notebook)
+
+## Sample Output
+
+Here is an example 95 \% confidence ellipse for 1000 sample points.
+
+![Sample ellipse](sample-ellipse.png)
 
 ## References
 
