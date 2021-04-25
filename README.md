@@ -10,7 +10,7 @@ This notebook demonstrates how to properly plot error ellipses (using Python and
 
 Here is an example 95 \% confidence ellipse for 1000 sample points.
 
-![Sample ellipse](sample-ellipse.png)
+![Sample ellipse](sample-ellipse.svg)
 
 ## References
 
