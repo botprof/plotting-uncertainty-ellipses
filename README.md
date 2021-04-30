@@ -4,7 +4,7 @@ This notebook demonstrates how to properly plot ellipses that represent desired 
 
 ## Main Files
 
-* [plotting-uncertainty-ellipses.ipynb](plotting-uncertainty-ellipses.ipynb) (Jupyter notebook)
+* [plotting-uncertainty-ellipses.ipynb](https://nbviewer.jupyter.org/github/bot-doc/plotting-uncertainty-ellipses/blob/main/plotting-uncertainty-ellipses.ipynb) (Jupyter notebook)
 
 ## Sample Output
 
