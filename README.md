@@ -20,7 +20,7 @@ You can find a similar but partial treatment of this problem on the Matplotlib p
 
 You may wish to cite this work in your publications.
 
-> Joshua A. Marshall, How to Properly Plot Uncertainty Ellipses for 2D Normally Distributed Data, 2020, URL: [https://github.com/bot-doc/plotting-uncertainty-ellipses](https://github.com/botprof/plotting-uncertainty-ellipses).
+> Joshua A. Marshall, How to Properly Plot Uncertainty Ellipses for 2D Normally Distributed Data, 2020, URL: [https://github.com/botprof/plotting-uncertainty-ellipses](https://github.com/botprof/plotting-uncertainty-ellipses).
 
 You might also use the BibTeX entry below.
 
