@@ -4,7 +4,7 @@ This notebook demonstrates how to properly plot ellipses that represent desired 
 
 ## Main Files
 
-* [plotting-uncertainty-ellipses.ipynb](https://nbviewer.jupyter.org/github/bot-doc/plotting-uncertainty-ellipses/blob/main/plotting-uncertainty-ellipses.ipynb) (Jupyter notebook)
+* [plotting-uncertainty-ellipses.ipynb](https://nbviewer.jupyter.org/github/botprof/plotting-uncertainty-ellipses/blob/main/plotting-uncertainty-ellipses.ipynb) (Jupyter notebook)
 
 ## Sample Output
 
@@ -20,7 +20,7 @@ You can find a similar but partial treatment of this problem on the Matplotlib p
 
 You may wish to cite this work in your publications.
 
-> Joshua A. Marshall, How to Properly Plot Uncertainty Ellipses for 2D Normally Distributed Data, 2020, URL: [https://github.com/bot-doc/plotting-uncertainty-ellipses](https://github.com/bot-doc/plotting-uncertainty-ellipses).
+> Joshua A. Marshall, How to Properly Plot Uncertainty Ellipses for 2D Normally Distributed Data, 2020, URL: [https://github.com/botprof/plotting-uncertainty-ellipses](https://github.com/botprof/plotting-uncertainty-ellipses).
 
 You might also use the BibTeX entry below.
 
@@ -29,7 +29,7 @@ You might also use the BibTeX entry below.
   author = {Marshall, Joshua A.},
   title = {How to Properly Plot Uncertainty Ellipses for 2D Normally Distributed Data},
   year = {2020},
-  howpublished = {\url{https://github.com/bot-doc/plotting-uncertainty-ellipses}}
+  howpublished = {\url{https://github.com/botprof/plotting-uncertainty-ellipses}}
 }
 ```
 
